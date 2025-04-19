@@ -79,5 +79,5 @@ python pokemon.py all Onix Zubat
 ### 5. **Ability Mode**
 Fetch and display information about specified Pokémon abilities:
 ```bash
-python pokemon.py ability Hyper Fang Quick Attack
+python pokemon.py ability Hyper\ Fang Quick\ Attack
 ```
