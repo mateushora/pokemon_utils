@@ -18,14 +18,13 @@ The main entry point of the application. This module provides different modes of
 Handles the core logic for analyzing Pokémon battles:
 - **`find_best_pokemon`**: Determines the best Pokémon to use against specified enemies based on move effectiveness and type resistance.
 - **`get_best_moves`**: Calculates the best moves for a Pokémon against an enemy, considering move power, accuracy, and type effectiveness.
-- **Type Resistance**: Identifies Pokémon that are immune or weak to enemy types.
 
 ### 3. **`api.py`**
 Handles fetching Pokémon data from the PokéAPI:
 - **`get_pokemon_types`**: Fetches the types of specified Pokémon. If the data is already cached locally, it uses the cache instead of querying the API.
 - **`get_ability_type`**: Fetches the type or effect of a specified Pokémon ability from a local cache.
 
-> **Note**: The API will only consult the internet once for each Pokémon or ability. After storing the information in the local cache, it will always use the cached data.
+> **Note**: The API will only consult the internet once for each Pokémon. After storing the information in the local cache, it will always use the cached data.
 
 ### 4. **`configs.py`**
 Loads and manages configuration data for the application:
