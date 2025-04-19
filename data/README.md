@@ -34,5 +34,5 @@ This folder contains all JSON files used by the application to store Pokémon-re
 
 ## Notes
 - Ensure these files are kept up-to-date for accurate results.
-- Cached files (e.g., `pokemon_types_cache.json` and `pokemon_ability_types_cache.json`) can be deleted to force the application to fetch fresh data from the PokéAPI.
+- Cached files (i.e., `pokemon_types_cache.json`) can be deleted to force the application to fetch fresh data from the PokéAPI.
 - Manually updated files (e.g., `pokemon_all_pokemons_owned.json`) should reflect your current Pokémon collection and moves.
