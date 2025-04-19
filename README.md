@@ -1,10 +1,10 @@
-# Pokémon Utils
+# 🐾 Pokémon Utils
 
 This repository contains utilities for analyzing Pokémon battles, determining type advantages, and managing Pokémon data. It is designed to help players make informed decisions during battles by leveraging type effectiveness, move data, and cached information.
 
 ---
 
-## Modules
+## 📦 Modules
 
 ### 1. **`pokemon.py`**
 The main entry point of the application. This module provides different modes of operation:
@@ -41,7 +41,7 @@ Provides an interactive quiz to test your knowledge of Pokémon type effectivene
 
 ---
 
-## JSON Files
+## 📂 JSON Files
 
 ### 1. **`pokemon_types_cache.json`**
 - **Purpose**: Stores the types of Pokémon fetched from the PokéAPI.
@@ -69,9 +69,10 @@ Provides an interactive quiz to test your knowledge of Pokémon type effectivene
 
 ---
 
-## How to Use
+## 🚀 How to Use
 
 1. **Run the Application**:
    Use the following command to run the application:
    ```bash
    python pokemon.py <mode> [arguments]
+   ```
