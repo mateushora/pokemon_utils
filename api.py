@@ -4,7 +4,7 @@ import time
 import requests
 
 
-def get_pokemon_types(pokemon_names, cache_file="pokemon_types_cache.json"):
+def get_pokemon_types(pokemon_names, cache_file="data/pokemon_types_cache.json"):
     """
     Fetches types for a list of Pokémon names from the PokéAPI or a local cache.
 
@@ -58,7 +58,7 @@ def get_pokemon_types(pokemon_names, cache_file="pokemon_types_cache.json"):
     return {name: pokemon_types.get(name, []) for name in pokemon_names}
 
 
-def get_ability_type(ability_name, cache_file="pokemon_ability_types_cache.json"):
+def get_ability_type(ability_name, cache_file="data/pokemon_ability_types_cache.json"):
     """
     Fetches the type of a Pokémon ability from a local cache.
 

@@ -25,7 +25,7 @@ import json
 
 # Load the Pokémon type chart from a JSON file
 POKEMON_TYPE_CHART_PATH = os.path.join(
-    os.path.dirname(__file__), "pokemon_type_chart.json"
+    os.path.dirname(__file__), "data", "pokemon_type_chart.json"
 )
 
 with open(POKEMON_TYPE_CHART_PATH, "r") as file:
@@ -33,14 +33,18 @@ with open(POKEMON_TYPE_CHART_PATH, "r") as file:
 
 # Load the ALL_POKEMONS_OWNED from a JSON file
 ALL_POKEMONS_OWNED_PATH = os.path.join(
-    os.path.dirname(__file__), "pokemon_all_pokemons_owned.json"
+    os.path.dirname(__file__), "data", "pokemon_all_pokemons_owned.json"
 )
 
 with open(ALL_POKEMONS_OWNED_PATH, "r") as file:
     ALL_POKEMONS_OWNED = json.load(file)
 
 # Load move types from the cache
-with open("pokemon_ability_types_cache.json", "r") as file:
+MOVE_TYPES_PATH = os.path.join(
+    os.path.dirname(__file__), "data", "pokemon_ability_types_cache.json"
+)
+
+with open(MOVE_TYPES_PATH, "r") as file:
     MOVE_TYPES = json.load(file)
 
 
@@ -49,6 +53,4 @@ CURRENT_POKEMON_TEAM = [
     "Kadabra",
     "Gyarados",
     "Arbok",
-    # "Zubat",
-    # "Meowth",
 ]

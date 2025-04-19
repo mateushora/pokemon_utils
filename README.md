@@ -42,25 +42,27 @@ Provides an interactive quiz to test your knowledge of Pokémon type effectivene
 
 ## 📂 JSON Files
 
-### 1. **`pokemon_types_cache.json`**
+All JSON files are located in the `data` folder.
+
+### 1. **`data/pokemon_types_cache.json`**
 - **Purpose**: Stores the types of Pokémon fetched from the PokéAPI.
 - **When to Change**: 
   - If new Pokémon are added to the game or if you want to update the types of existing Pokémon.
   - If the cache becomes outdated or corrupted, you can delete it to force the application to fetch fresh data from the API.
 
-### 2. **`pokemon_all_pokemons_owned.json`**
+### 2. **`data/pokemon_all_pokemons_owned.json`**
 - **Purpose**: Stores all owned Pokémon and their moves.
 - **When to Change**:
   - When you acquire new Pokémon or update the moves of existing Pokémon.
   - This file should be manually updated to reflect your current collection.
 
-### 3. **`pokemon_ability_types_cache.json`**
+### 3. **`data/pokemon_ability_types_cache.json`**
 - **Purpose**: Stores information about Pokémon abilities, including their type, power, and accuracy.
 - **When to Change**:
   - If new abilities are introduced or if you want to update the data for existing abilities.
   - This file is used as a local cache and should be updated manually if needed.
 
-### 4. **`pokemon_type_chart.json`**
+### 4. **`data/pokemon_type_chart.json`**
 - **Purpose**: Represents the type effectiveness chart, detailing which types are strong, weak, or immune to others.
 - **When to Change**:
   - If the type effectiveness rules are updated (e.g., in a new game generation).
