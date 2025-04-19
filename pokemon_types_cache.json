@@ -1,0 +1,135 @@
+{
+    "Pikachu": [
+        "electric"
+    ],
+    "Charizard": [
+        "fire",
+        "flying"
+    ],
+    "Bulbasaur": [
+        "grass",
+        "poison"
+    ],
+    "Squirtle": [
+        "water"
+    ],
+    "Geodude": [
+        "rock",
+        "ground"
+    ],
+    "Oddish": [
+        "grass",
+        "poison"
+    ],
+    "Raichu": [
+        "electric"
+    ],
+    "Magikarp": [
+        "water"
+    ],
+    "Onix": [
+        "rock",
+        "ground"
+    ],
+    "Mr. Mime": [
+        "psychic",
+        "fairy"
+    ],
+    "Abra": [
+        "psychic"
+    ],
+    "Kadabra": [
+        "psychic"
+    ],
+    "Nidorina": [
+        "poison"
+    ],
+    "Gyarados": [
+        "water",
+        "flying"
+    ],
+    "Arbok": [
+        "poison"
+    ],
+    "Rattata": [
+        "normal"
+    ],
+    "Sandshrew": [
+        "ground"
+    ],
+    "Ekans": [
+        "poison"
+    ],
+    "Beedrill": [
+        "bug",
+        "poison"
+    ],
+    "Farfetch'd": [
+        "normal",
+        "flying"
+    ],
+    "Raticate": [
+        "normal"
+    ],
+    "Jigglypuff": [
+        "normal",
+        "fairy"
+    ],
+    "Clefairy": [
+        "fairy"
+    ],
+    "Paras": [
+        "bug",
+        "grass"
+    ],
+    "Graveler": [
+        "rock",
+        "ground"
+    ],
+    "Dugtrio": [
+        "ground"
+    ],
+    "Drowzee": [
+        "psychic"
+    ],
+    "Wartortle": [
+        "water"
+    ],
+    "Fearow": [
+        "normal",
+        "flying"
+    ],
+    "Pidgeotto": [
+        "normal",
+        "flying"
+    ],
+    "Gloom": [
+        "grass",
+        "poison"
+    ],
+    "Mankey": [
+        "fighting"
+    ],
+    "Butterfree": [
+        "bug",
+        "flying"
+    ],
+    "Nidoking": [
+        "poison",
+        "ground"
+    ],
+    "Zubat": [
+        "poison",
+        "flying"
+    ],
+    "Meowth": [
+        "normal"
+    ],
+    "pikachu": [
+        "electric"
+    ],
+    "onix": [
+        "rock",
+        "ground"
+    ]
+}

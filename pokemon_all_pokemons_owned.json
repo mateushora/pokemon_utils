@@ -1,0 +1,137 @@
+{
+    "Farfetch'd": [
+        "Peck",
+        "Sand-attack",
+        "Cut"
+    ],
+    "Raticate": [
+        "Hyper Fang",
+        "Quick Attack",
+        "Tail Whip",
+        "Focus Energy"
+    ],
+    "Jigglypuff": [
+        "Sing"
+    ],
+    "Beedrill": [
+        "Poison Sting",
+        "Fury Attack",
+        "Harden",
+        "String Shot"
+    ],
+    "Clefairy": [
+        "Pound",
+        "Growl",
+        "Encore"
+    ],
+    "Paras": [
+        "Scratch",
+        "Stun Spore",
+        "Poisonpowder"
+    ],
+    "Graveler": [
+        "Rock Throw",
+        "Selfdestruct",
+        "Defense Curl",
+        "Magnitude"
+    ],
+    "Mr. Mime": [
+        "Confusion",
+        "Reflect",
+        "Substitute",
+        "Light Screen"
+    ],
+    "Dugtrio": [
+        "Magnitude",
+        "Dig",
+        "Scratch",
+        "Mud-slap"
+    ],
+    "Drowzee": [
+        "Confusion",
+        "Hypnosis",
+        "Disable",
+        "Pound"
+    ],
+    "Wartortle": [
+        "Bite",
+        "Water Gun",
+        "Tackle",
+        "Withdraw"
+    ],
+    "Fearow": [
+        "Fury Attack",
+        "Peck",
+        "Pursuit",
+        "Leer"
+    ],
+    "Pidgeotto": [
+        "Quick Attack",
+        "Sand-attack",
+        "Tackle",
+        "Gust"
+    ],
+    "Pikachu": [
+        "Thundershock",
+        "Quick Attack",
+        "Double Team",
+        "Thunder Wave"
+    ],
+    "Gloom": [
+        "Absorb",
+        "Sleep Powder",
+        "Stun Spore",
+        "Poisonpowder"
+    ],
+    "Mankey": [
+        "Karate Chop",
+        "Low Kick",
+        "Leer",
+        "Focus Energy"
+    ],
+    "Butterfree": [
+        "Confusion",
+        "Sleep Powder",
+        "Stun Spore",
+        "Tackle"
+    ],
+    "Nidoking": [
+        "Dig",
+        "Thrash",
+        "Focus Energy",
+        "Double Kick"
+    ],
+    "Nidorina": [
+        "Double Kick",
+        "Scratch",
+        "Tail Whip",
+        "Poison Sting"
+    ],
+    "Kadabra": [
+        "Confusion",
+        "Psybeam",
+        "Teleport",
+        "Disable"
+    ],
+    "Gyarados": [
+        "Bite",
+        "Splash",
+        "Tackle"
+    ],
+    "Arbok": [
+        "Bite",
+        "Glare",
+        "Leer",
+        "Wrap"
+    ],
+    "Zubat": [
+        "Leech Life",
+        "Astonish"
+    ],
+    "Meowth": [
+        "Bite",
+        "Growl",
+        "Cut",
+        "Scratch"
+    ]
+}

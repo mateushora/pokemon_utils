@@ -1,0 +1,267 @@
+{
+    "peck": {
+        "type": "flying",
+        "power": 35,
+        "accuracy": 100
+    },
+    "cut": {
+        "type": "normal",
+        "power": 50,
+        "accuracy": 95
+    },
+    "sand-attack": {
+        "type": "ground",
+        "power": null,
+        "accuracy": 100
+    },
+    "hyper fang": {
+        "type": "normal",
+        "power": 80,
+        "accuracy": 90
+    },
+    "quick attack": {
+        "type": "normal",
+        "power": 40,
+        "accuracy": 100
+    },
+    "tail whip": {
+        "type": "normal",
+        "power": null,
+        "accuracy": 100
+    },
+    "focus energy": {
+        "type": "normal",
+        "power": null,
+        "accuracy": null
+    },
+    "sing": {
+        "type": "normal",
+        "power": null,
+        "accuracy": 55
+    },
+    "poison sting": {
+        "type": "poison",
+        "power": 15,
+        "accuracy": 100
+    },
+    "string shot": {
+        "type": "bug",
+        "power": null,
+        "accuracy": 95
+    },
+    "harden": {
+        "type": "normal",
+        "power": null,
+        "accuracy": null
+    },
+    "fury attack": {
+        "type": "normal",
+        "power": 15,
+        "accuracy": 85
+    },
+    "pound": {
+        "type": "normal",
+        "power": 40,
+        "accuracy": 100
+    },
+    "growl": {
+        "type": "normal",
+        "power": null,
+        "accuracy": 100
+    },
+    "encore": {
+        "type": "normal",
+        "power": null,
+        "accuracy": 100
+    },
+    "scratch": {
+        "type": "normal",
+        "power": 40,
+        "accuracy": 100
+    },
+    "stun spore": {
+        "type": "grass",
+        "power": null,
+        "accuracy": 75
+    },
+    "poisonpowder": {
+        "type": "poison",
+        "power": null,
+        "accuracy": 75
+    },
+    "rock throw": {
+        "type": "rock",
+        "power": 50,
+        "accuracy": 90
+    },
+    "magnitude": {
+        "type": "ground",
+        "power": null,
+        "accuracy": 100
+    },
+    "selfdestruct": {
+        "type": "normal",
+        "power": 200,
+        "accuracy": 100
+    },
+    "defense curl": {
+        "type": "normal",
+        "power": null,
+        "accuracy": null
+    },
+    "confusion": {
+        "type": "psychic",
+        "power": 50,
+        "accuracy": 100
+    },
+    "reflect": {
+        "type": "psychic",
+        "power": null,
+        "accuracy": null
+    },
+    "substitute": {
+        "type": "normal",
+        "power": null,
+        "accuracy": null
+    },
+    "light screen": {
+        "type": "psychic",
+        "power": null,
+        "accuracy": null
+    },
+    "dig": {
+        "type": "ground",
+        "power": 80,
+        "accuracy": 100
+    },
+    "mud-slap": {
+        "type": "ground",
+        "power": 20,
+        "accuracy": 100
+    },
+    "hypnosis": {
+        "type": "psychic",
+        "power": null,
+        "accuracy": 60
+    },
+    "disable": {
+        "type": "normal",
+        "power": null,
+        "accuracy": 100
+    },
+    "bite": {
+        "type": "dark",
+        "power": 60,
+        "accuracy": 100
+    },
+    "water gun": {
+        "type": "water",
+        "power": 40,
+        "accuracy": 100
+    },
+    "tackle": {
+        "type": "normal",
+        "power": 40,
+        "accuracy": 100
+    },
+    "withdraw": {
+        "type": "water",
+        "power": null,
+        "accuracy": null
+    },
+    "leer": {
+        "type": "normal",
+        "power": null,
+        "accuracy": 100
+    },
+    "pursuit": {
+        "type": "dark",
+        "power": 40,
+        "accuracy": 100
+    },
+    "gust": {
+        "type": "flying",
+        "power": 40,
+        "accuracy": 100
+    },
+    "thundershock": {
+        "type": "electric",
+        "power": 40,
+        "accuracy": 100
+    },
+    "double team": {
+        "type": "normal",
+        "power": null,
+        "accuracy": null
+    },
+    "thunder wave": {
+        "type": "electric",
+        "power": null,
+        "accuracy": 90
+    },
+    "absorb": {
+        "type": "grass",
+        "power": 20,
+        "accuracy": 100
+    },
+    "sleep powder": {
+        "type": "grass",
+        "power": null,
+        "accuracy": 75
+    },
+    "karate chop": {
+        "type": "fighting",
+        "power": 50,
+        "accuracy": 100
+    },
+    "low kick": {
+        "type": "fighting",
+        "power": null,
+        "accuracy": 100
+    },
+    "thrash": {
+        "type": "normal",
+        "power": 120,
+        "accuracy": 100
+    },
+    "double kick": {
+        "type": "fighting",
+        "power": 30,
+        "accuracy": 100
+    },
+    "psybeam": {
+        "type": "psychic",
+        "power": 65,
+        "accuracy": 100
+    },
+    "teleport": {
+        "type": "psychic",
+        "power": null,
+        "accuracy": null
+    },
+    "splash": {
+        "type": "normal",
+        "power": null,
+        "accuracy": null
+    },
+    "glare": {
+        "type": "normal",
+        "power": null,
+        "accuracy": 100
+    },
+    "wrap": {
+        "type": "normal",
+        "power": 15,
+        "accuracy": 90
+    },
+    "leech life": {
+        "type": "bug",
+        "power": 80,
+        "accuracy": 100
+    },
+    "astonish": {
+        "type": "ghost",
+        "power": 30,
+        "accuracy": 100
+    }
+}
