@@ -55,29 +55,29 @@ Here are examples of how to use the program with different arguments:
 ### 1. **Quiz Mode**
 Run an interactive quiz to test your knowledge of Pokémon type effectiveness:
 ```bash
-python [pokemon.py](http://_vscodecontentref_/1) quiz
+python pokemon.py quiz
 ```
 
 ### 2. **Types Mode**
 Fetch and display the types of specified Pokémon:
 ```bash
-python [pokemon.py](http://_vscodecontentref_/2) types Pikachu Charizard
+python pokemon.py types Pikachu Charizard
 ```
 
 ### 3. **Current Mode**
 Analyze your current Pokémon team against specified enemy Pokémon:
 ```bash
-python [pokemon.py](http://_vscodecontentref_/3) current Beedrill Gyarados
+python pokemon.py current Beedrill Gyarados
 ```
 
 ### 4. **All Mode**
 Analyze all owned Pokémon against specified enemy Pokémon:
 ```bash
-python [pokemon.py](http://_vscodecontentref_/4) all Onix Zubat
+python pokemon.py all Onix Zubat
 ```
 
 ### 5. **Ability Mode**
 Fetch and display information about specified Pokémon abilities:
 ```bash
-python [pokemon.py](http://_vscodecontentref_/5) ability Hyper Fang Quick Attack
+python pokemon.py ability Hyper Fang Quick Attack
 ```
