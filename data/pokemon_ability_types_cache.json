@@ -263,5 +263,125 @@
         "type": "ghost",
         "power": 30,
         "accuracy": 100
+    },
+    "body slam": {
+        "type": "normal",
+        "power": 85,
+        "accuracy": 100
+    },
+    "screech": {
+        "type": "normal",
+        "power": null,
+        "accuracy": 85
+    },
+    "sonicboom": {
+        "type": "normal",
+        "power": null,
+        "accuracy": 90
+    },
+    "charge": {
+        "type": "electric",
+        "power": null,
+        "accuracy": null
+    },
+    "supersonic": {
+        "type": "normal",
+        "power": null,
+        "accuracy": 55
+    },
+    "recover": {
+        "type": "normal",
+        "power": null,
+        "accuracy": null
+    },
+    "flash": {
+        "type": "normal",
+        "power": null,
+        "accuracy": 70
+    },
+    "pay day": {
+        "type": "normal",
+        "power": 40,
+        "accuracy": 100
+    },
+    "wing attack": {
+        "type": "flying",
+        "power": 60,
+        "accuracy": 100
+    },
+    "thunderbolt": {
+        "type": "electric",
+        "power": 90,
+        "accuracy": 100
+    },
+    "confuse ray": {
+        "type": "ghost",
+        "power": null,
+        "accuracy": 100
+    },
+    "secret power": {
+        "type": "normal",
+        "power": 70,
+        "accuracy": 100
+    },
+    "hyper beam": {
+        "type": "normal",
+        "power": 150,
+        "accuracy": 90
+    },
+    "brick break": {
+        "type": "fighting",
+        "power": 75,
+        "accuracy": 100
+    },
+    "seismic toss": {
+        "type": "fighting",
+        "power": null,
+        "accuracy": 100
+    },
+    "helping hand": {
+        "type": "normal",
+        "power": null,
+        "accuracy": null
+    },
+    "ember": {
+        "type": "fire",
+        "power": 40,
+        "accuracy": 100
+    },
+    "roar": {
+        "type": "normal",
+        "power": null,
+        "accuracy": null
+    },
+    "headbutt": {
+        "type": "normal",
+        "power": 70,
+        "accuracy": 100
+    },
+    "protect": {
+        "type": "normal",
+        "power": null,
+        "accuracy": null
+    },
+    "fly": {
+        "type": "flying",
+        "power": 70,
+        "accuracy": 95
+    },
+    "spark": {
+        "type": "electric",
+        "power": 65,
+        "accuracy": 100
+    },
+    "acid": {
+        "type": "poison",
+        "power": 40,
+        "accuracy": 100
+    },
+    "revenge": {
+        "type": "fighting",
+        "power": 60,
+        "accuracy": 100
     }
 }

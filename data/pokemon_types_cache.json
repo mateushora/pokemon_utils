@@ -131,5 +131,78 @@
     "onix": [
         "rock",
         "ground"
+    ],
+    "Machop": [
+        "fighting"
+    ],
+    "Bellsprout": [
+        "grass",
+        "poison"
+    ],
+    "Nidoqueen": [
+        "poison",
+        "ground"
+    ],
+    "Growlithe": [
+        "fire"
+    ],
+    "Charmander": [
+        "fire"
+    ],
+    "Cubone": [
+        "ground"
+    ],
+    "Slowpoke": [
+        "water",
+        "psychic"
+    ],
+    "Pidgey": [
+        "normal",
+        "flying"
+    ],
+    "Golbat": [
+        "poison",
+        "flying"
+    ],
+    "Ivysaur": [
+        "grass",
+        "poison"
+    ],
+    "Voltorb": [
+        "electric"
+    ],
+    "Koffing": [
+        "poison"
+    ],
+    "Grimer": [
+        "poison"
+    ],
+    "Magnemite": [
+        "electric",
+        "steel"
+    ],
+    "Sandslash": [
+        "ground"
+    ],
+    "Rhyhorn": [
+        "ground",
+        "rock"
+    ],
+    "Kangaskhan": [
+        "normal"
+    ],
+    "Weepinbell": [
+        "grass",
+        "poison"
+    ],
+    "Exeggcute": [
+        "grass",
+        "psychic"
+    ],
+    "Rapidash": [
+        "fire"
+    ],
+    "Ninetales": [
+        "fire"
     ]
 }

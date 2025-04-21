@@ -8,7 +8,7 @@
         "Hyper Fang",
         "Quick Attack",
         "Tail Whip",
-        "Focus Energy"
+        "Hyper Beam"
     ],
     "Jigglypuff": [
         "Sing"
@@ -19,10 +19,11 @@
         "Harden",
         "String Shot"
     ],
-    "Clefairy": [
+    "Clefable": [
         "Pound",
         "Growl",
-        "Encore"
+        "Encore",
+        "Sing"
     ],
     "Paras": [
         "Scratch",
@@ -31,12 +32,12 @@
     ],
     "Graveler": [
         "Rock Throw",
+        "Magnitude",
         "Selfdestruct",
-        "Defense Curl",
-        "Magnitude"
+        "Defense Curl"
     ],
     "Mr. Mime": [
-        "Confusion",
+        "Psybeam",
         "Reflect",
         "Substitute",
         "Light Screen"
@@ -47,76 +48,77 @@
         "Scratch",
         "Mud-slap"
     ],
-    "Drowzee": [
+    "Hypno": [
         "Confusion",
-        "Hypnosis",
+        "Headbutt",
         "Disable",
-        "Pound"
+        "Hypnosis"
     ],
     "Wartortle": [
         "Bite",
         "Water Gun",
-        "Tackle",
+        "Protect",
         "Withdraw"
     ],
     "Fearow": [
         "Fury Attack",
         "Peck",
-        "Pursuit",
-        "Leer"
+        "Leer",
+        "Pursuit"
     ],
     "Pidgeotto": [
         "Quick Attack",
         "Sand-attack",
-        "Tackle",
-        "Gust"
+        "Wing Attack",
+        "Fly"
     ],
-    "Pikachu": [
-        "Thundershock",
-        "Quick Attack",
+    "Raichu": [
+        "Thunderbolt",
         "Double Team",
+        "Quick Attack",
         "Thunder Wave"
     ],
-    "Gloom": [
+    "Vileplume": [
         "Absorb",
         "Sleep Powder",
         "Stun Spore",
-        "Poisonpowder"
+        "Acid"
     ],
-    "Mankey": [
-        "Karate Chop",
+    "Primeape": [
+        "Brick Break",
         "Low Kick",
-        "Leer",
-        "Focus Energy"
+        "Seismic Toss",
+        "Leer"
     ],
     "Butterfree": [
         "Confusion",
-        "Sleep Powder",
         "Stun Spore",
-        "Tackle"
+        "Gust",
+        "Sleep Powder"
     ],
     "Nidoking": [
         "Dig",
         "Thrash",
         "Focus Energy",
-        "Double Kick"
+        "Brick Break"
     ],
-    "Nidorina": [
-        "Double Kick",
-        "Scratch",
-        "Tail Whip",
-        "Poison Sting"
+    "Nidoqueen": [
+        "Body Slam",
+        "Bite",
+        "Brick Break",
+        "Tail Whip"
     ],
     "Kadabra": [
-        "Confusion",
         "Psybeam",
-        "Teleport",
-        "Disable"
+        "Reflect",
+        "Disable",
+        "Recover"
     ],
     "Gyarados": [
         "Bite",
         "Splash",
-        "Tackle"
+        "Tackle",
+        "Hyper Beam"
     ],
     "Arbok": [
         "Bite",
@@ -124,14 +126,46 @@
         "Leer",
         "Wrap"
     ],
-    "Zubat": [
-        "Leech Life",
-        "Astonish"
+    "Golbat": [
+        "Wing Attack",
+        "Bite",
+        "Confuse Ray",
+        "Leech Life"
     ],
     "Meowth": [
         "Bite",
-        "Growl",
+        "Flash",
         "Cut",
-        "Scratch"
+        "Secret Power"
+    ],
+    "Voltorb": [
+        "Tackle",
+        "Spark",
+        "Charge",
+        "Sonicboom"
+    ],
+    "Machoke": [
+        "Karate Chop",
+        "Low Kick",
+        "Seismic Toss",
+        "Revenge"
+    ],
+    "Eevee": [
+        "Helping Hand",
+        "Sand-attack",
+        "Growl",
+        "Quick Attack"
+    ],
+    "Onix": [
+        "Tackle",
+        "Screech",
+        "Bind",
+        "Rock Throw"
+    ],
+    "Growlithe": [
+        "Ember",
+        "Bite",
+        "Roar",
+        "Leer"
     ]
 }
