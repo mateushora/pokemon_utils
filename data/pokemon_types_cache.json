@@ -204,5 +204,48 @@
     ],
     "Ninetales": [
         "fire"
+    ],
+    "Vileplume": [
+        "grass",
+        "poison"
+    ],
+    "Gastly": [
+        "ghost",
+        "poison"
+    ],
+    "Haunter": [
+        "ghost",
+        "poison"
+    ],
+    "Marowak": [
+        "ground"
+    ],
+    "Snorlax": [
+        "normal"
+    ],
+    "Persian": [
+        "normal"
+    ],
+    "Electrode": [
+        "electric"
+    ],
+    "Weezing": [
+        "poison"
+    ],
+    "Muk": [
+        "poison"
+    ],
+    "Blastoise": [
+        "water"
+    ],
+    "Pidgeot": [
+        "normal",
+        "flying"
+    ],
+    "Goldeen": [
+        "water"
+    ],
+    "Poliwag": [
+        "water"
     ]
 }

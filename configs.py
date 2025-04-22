@@ -49,8 +49,10 @@ with open(MOVE_TYPES_PATH, "r") as file:
 
 
 CURRENT_POKEMON_TEAM = [
-    "Nidorina",
-    "Kadabra",
-    "Gyarados",
-    "Arbok",
+    "Cubone",
+    "Growlithe",
+    "Blastoise",
+    "Vileplume",
+    "Pidgeot",
+    "Persian",
 ]

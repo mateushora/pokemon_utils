@@ -54,7 +54,7 @@
         "Disable",
         "Hypnosis"
     ],
-    "Wartortle": [
+    "Blastoise": [
         "Bite",
         "Water Gun",
         "Protect",
@@ -66,9 +66,9 @@
         "Leer",
         "Pursuit"
     ],
-    "Pidgeotto": [
+    "Pidgeot": [
         "Quick Attack",
-        "Sand-attack",
+        "Featherdance",
         "Wing Attack",
         "Fly"
     ],
@@ -132,17 +132,17 @@
         "Confuse Ray",
         "Leech Life"
     ],
-    "Meowth": [
+    "Persian": [
         "Bite",
-        "Flash",
+        "Secret Power",
         "Cut",
-        "Secret Power"
+        "Flash"
     ],
-    "Voltorb": [
-        "Tackle",
+    "Electrode": [
         "Spark",
-        "Charge",
-        "Sonicboom"
+        "Sonicboom",
+        "Selfdestruct",
+        "Charge"
     ],
     "Machoke": [
         "Karate Chop",
@@ -163,9 +163,27 @@
         "Rock Throw"
     ],
     "Growlithe": [
-        "Ember",
         "Bite",
+        "Flame Wheel",
         "Roar",
-        "Leer"
+        "Take Down"
+    ],
+    "Haunter": [
+        "Lick",
+        "Spite",
+        "Curse",
+        "Night Shade"
+    ],
+    "Snorlax": [
+        "Headbutt",
+        "Yawn",
+        "Rest",
+        "Snore"
+    ],
+    "Cubone": [
+        "Growl",
+        "Tail Whip",
+        "Bone Club",
+        "Headbutt"
     ]
 }

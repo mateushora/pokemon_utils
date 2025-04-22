@@ -383,5 +383,60 @@
         "type": "fighting",
         "power": 60,
         "accuracy": 100
+    },
+    "take down": {
+        "type": "normal",
+        "power": 90,
+        "accuracy": 85
+    },
+    "flame wheel": {
+        "type": "fire",
+        "power": 60,
+        "accuracy": 100
+    },
+    "lick": {
+        "type": "ghost",
+        "power": 20,
+        "accuracy": 100
+    },
+    "spite": {
+        "type": "ghost",
+        "power": null,
+        "accuracy": 100
+    },
+    "curse": {
+        "type": "ghost",
+        "power": null,
+        "accuracy": null
+    },
+    "night shade": {
+        "type": "ghost",
+        "power": null,
+        "accuracy": 100
+    },
+    "yawn": {
+        "type": "normal",
+        "power": null,
+        "accuracy": 100
+    },
+    "rest": {
+        "type": "normal",
+        "power": null,
+        "accuracy": null
+    },
+    "snore": {
+        "type": "normal",
+        "power": 40,
+        "accuracy": 100
+    },
+    "bone club": {
+        "type": "ground",
+        "power": 65,
+        "accuracy": 85
+    },
+    "featherdance": {
+        "type": "flying",
+        "power": null,
+        "accuracy": 100
     }
 }
